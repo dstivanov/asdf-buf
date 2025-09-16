@@ -23,7 +23,7 @@ Buf plugin for the asdf version manager.
 Plugin:
 
 ```shell_session
-$ asdf plugin-add buf https://github.com/truepay/asdf-buf
+asdf plugin add buf https://github.com/truepay/asdf-buf
 ```
 
 buf:
